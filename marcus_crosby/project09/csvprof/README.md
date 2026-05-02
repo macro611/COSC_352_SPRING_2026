@@ -75,9 +75,9 @@ period than neighborhoods with few or no active vacant notices?
 
 ## Vacant Notices vs. Crime Events
 
-![image](file://vacancy_crime_scatter.png)
+![image](vacancy_crime_scatter.png)
 
-![image](file://top_neighborhood_crime.svg)
+![image](top_neighborhood_crime.svg)
 
 ## How To Run
 
